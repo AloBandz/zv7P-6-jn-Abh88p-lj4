@@ -20,8 +20,8 @@ getgenv().AirHub = {}
 
 --// Load Modules
 
-loadstring(game:HttpGet(" "))()
-loadstring(game:HttpGet(" "))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AloBandz/zv7P-6-jn-Abh88p-lj4/main/a"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AloBandz/zv7P-6-jn-Abh88p-lj4/main/e"))()
 
 --// Variables
 
